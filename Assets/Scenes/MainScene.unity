@@ -182,6 +182,7 @@ MonoBehaviour:
   displayImageDuration: 1
   player: {fileID: 510951353}
   exitBackgroundImageCanvasGroup: {fileID: 1880295690}
+  caughtBackgroundImageCanvasGroup: {fileID: 0}
 --- !u!1 &510951353 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5874108936949431443, guid: 987480e7c54de8f47ba9617f352bb626,
